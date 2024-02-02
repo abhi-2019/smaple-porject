@@ -9,3 +9,8 @@ def sub(a,b):
     "substract first form second"
     return a-b
 print(sub(45, 36))
+
+
+def printsthing():
+    return "you are good human being"
+
